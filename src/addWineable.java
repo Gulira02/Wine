@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public interface addWineable {
+public interface addWineable{
+    Wine[] addWine1(String newWine);
+
 }
+
+
+

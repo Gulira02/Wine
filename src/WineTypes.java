@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public enum WineTypes {
+public enum WineTypes {
+    RED,
+    WHITE,
+    PINK;
 }
